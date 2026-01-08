@@ -11,7 +11,7 @@ Prototypes / Samples
 Can you provide prototypes or sample units for evaluation? Please advise lead time, cost (if any), and the process to request samples.
 Annual Requirement
 
-We estimate a need for approximately 4,000 iron‑phosphate (LFP) square/prismatic batteries per year in these configurations:
+We estimate a need for approximately 4,000 iron‑phosphate (LFP) square/prismatic batteries per month in these configurations:
 3.2 V / 150 Ah
 3.2 V / 200 Ah
 3.2 V / 300 Ah
@@ -42,13 +42,12 @@ I'm Alex from GMaxFunding.com. We're building lithium-ion battery assembly lines
 
 Request:
 
-Can you supply battery packs/parts with prepayment and provide prototypes?
-Annual need: ~4,000 LFP square batteries (3.2V/150Ah, 200Ah, 300Ah)
-Please quote average price per kWh for:
-LFP square (3.2V/150Ah, 200Ah, 300Ah)
-18650 (3.7V/2600mAh)
-Details on your sodium-ion battery products
-Supply locations and regional pricing
+1) Can you supply battery packs/parts with prepayment and provide prototypes?
+2) Monthly need: ~4,000 LFP square batteries (3.2V/150Ah, 200Ah, 300Ah)
+3)Please quote average price per kWh for:
+-LFP square (3.2V/150Ah, 200Ah, 300Ah)
+-18650 (3.7V/2600mAh)
+4)Details on your sodium-ion battery products
+
 Best regards,
 Alex
-GMaxFunding.com
